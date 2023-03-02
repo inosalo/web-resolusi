@@ -3,3 +3,4 @@ Jadi hal yang perlu dipelajari adalah :
 -HTML
 -CSS
 -Javascript
+-GIT & GITHUB
